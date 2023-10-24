@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">I currently study computer science at the Karlsruhe Institute of Technology (KIT) in Germany.</h3>
+<h3 align="center">
+  I studied computer science at the Karlsruhe Institute of Technology (KIT) in Germany.
+  This is where I received my bachelor's degree.
+  I am currently taking a sabbatical before pursuing my master's degree.
+</h3>
 
 <h3 algin="left">Interests</h3>
 <p align="left">
   <ul>
-    <li>Web Development</li>
     <li>Backend Engineering</li>
     <li>DevOps and GitOps</li>
+    <li>Web Development</li>
     <li>Cyber Security</li>
   </ul>
 </p>
