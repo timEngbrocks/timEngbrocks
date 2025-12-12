@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">
-  I studied computer science at the Karlsruhe Institute of Technology (KIT) in Germany.
-  This is where I received my bachelor's degree.
+  I am currently pursuing my computer science master's degree at the <a href="https://www.hs-mannheim.de/">Technische Hochschule Mannheim</a>
 </h3>
 
 <h3 algin="left">Interests</h3>
